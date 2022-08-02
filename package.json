@@ -1,20 +1,12 @@
 {
-  "name": "bytebanck",
+  "name": "bytebank",
   "version": "1.0.0",
   "description": "Projeto do bytebank para seus clientes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lhe30/testeorientacaoaobjetos.git"
-  },
-  "author": "Luiz",
+  "author": "",
   "license": "ISC",
-  "type": "module",
-  "bugs": {
-    "url": "https://github.com/lhe30/testeorientacaoaobjetos/issues"
-  },
-  "homepage": "https://github.com/lhe30/testeorientacaoaobjetos#readme"
+  "type": "module"
 }
